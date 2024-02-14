@@ -26,10 +26,8 @@
             <center>
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
+                        
                         <div class="carousel-item active">
-                            <img class="imgcarrousel grd" src="image/20210903_150731.jpg" alt="...">
-                        </div>
-                        <div class="carousel-item">
                             <img class="imgcarrousel" src="image/20221022_133513.jpg" alt="...">
                         </div>
                         <div class="carousel-item">

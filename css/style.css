@@ -66,6 +66,8 @@ p {
   text-align: left;
   padding: 5px;
 }
+.panier ul ,li{font-size: 1.3em; padding:0 4px ;list-style-type: none ;}
+.panier p {font-size: 1.6em;}
 a {
   color: red !important;
 }
